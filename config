@@ -1,10 +1,10 @@
 # Configuración de la fuente
-font-family = 'Cascadia Code PL'
+font-family = "Anonymous Pro Bold"
 font-size = 26
 
 # Apariencia y tema
-theme = rose-pine-moon
-background-opacity = 0.90
+theme = rose-pine
+background-opacity = 0.80
 adjust-cell-height = 35%
 
 # Cursor
@@ -18,6 +18,15 @@ maximize = true
 window-padding-balance = true
 window-save-state = always
 macos-titlebar-style = transparent
+window-save-state = never
+window-padding-color = extend
+window-step-resize = true
+window-padding-balance = true
+window-height=1664
+window-width=2560
+
+### Mac Alt Fix
+macos-option-as-alt = left
 
 # Confirmaciones al cerrar
 quit-after-last-window-closed = true
