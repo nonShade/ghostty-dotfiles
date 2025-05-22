@@ -1,11 +1,12 @@
 # Configuración de la fuente
-font-family = "Anonymous Pro Bold"
-font-size = 26
+font-family = "IosevkaTerm NF"
+font-size = 19
 
 # Apariencia y tema
-theme = rose-pine
-background-opacity = 0.80
+background-opacity = 1
 adjust-cell-height = 35%
+
+theme = pastel-vibes.conf
 
 # Cursor
 cursor-style = bar
@@ -24,6 +25,8 @@ window-step-resize = true
 window-padding-balance = true
 window-height=1664
 window-width=2560
+window-padding-x = 0
+window-padding-y = 0
 
 ### Mac Alt Fix
 macos-option-as-alt = left
